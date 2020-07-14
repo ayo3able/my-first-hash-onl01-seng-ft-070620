@@ -1,5 +1,5 @@
 def my_hash
- hash_me ={"cup"=>"sugar"}
+ hash_me ={"cup"=>"sugar", "bowl"=> "pudding"}
 
   
 end
